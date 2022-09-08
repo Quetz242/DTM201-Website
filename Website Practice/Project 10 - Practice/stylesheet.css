@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+#container {
+    background-color: white;
+    width: 800px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#part1 {
+    background-color: green;
+}
+#part2 {
+    background-color: yellow;
+}
+#part3 {
+    background-color: red;
+}
