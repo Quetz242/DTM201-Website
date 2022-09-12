@@ -1,0 +1,17 @@
+body {
+    background-color: #1c3144;
+}
+#logo {
+    background-color: #7c90a0;
+    width: 275px;
+    height: 140px;
+    margin-top: 0px;
+    margin-left: 0px;    
+}
+nav {
+    background-color: #54c7c0;
+    width: 120;
+    height: 999;
+    margin-left: 0px;
+    margin-top: 140px;
+}
